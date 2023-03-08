@@ -25,7 +25,7 @@
 // =========== arrays ===========
 
 
-// array definition
+// array definition + accesing a value inside array
 
 
 // push/unshift
@@ -46,11 +46,11 @@
 // Try to access value with index 5
 
 
-// =========== arrays ===========
+// =========== Copy of the arrays ===========
 
 
 
-// =========== objects ===========
+// =========== Copy of the objects ===========
 
 
 

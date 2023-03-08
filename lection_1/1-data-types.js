@@ -1,22 +1,21 @@
-// =========== let vs const ===========
+// =========== string ===========
+
+// string definition
+
 
 // Exercise #1
 // Let's define two variables and store any name in it.
 // Try to name both variable in the same way
 
 
-
-
-// =========== string ===========
-
-// Exercise #1
+// Exercise #2
 // Define two variable as name and surname,
 // and define third variable as fullName using concatenation operation.
 // Print result into console.
 
 
 
-// Exercise #2
+// Exercise #3
 // Redo previous exercise with string templates
 
 
@@ -24,6 +23,20 @@
 
 
 // =========== arrays ===========
+
+
+// array definition
+
+
+// push/unshift
+
+
+
+// pop/shift
+
+
+// length
+
 
 // Exercise #1
 // Create an array with some data inside (4 values)
@@ -33,6 +46,30 @@
 // Try to access value with index 5
 
 
+// =========== arrays ===========
+
+
+
+// =========== objects ===========
+
+
+
+
+// =========== desctruction ===========
+
+// array
+
+
+
+
+// object
+
+
+
+
+
+
+// HOME WORK :)
 
 // Exercise - Poetry club door policy *
 //

@@ -1,13 +1,20 @@
 // =========== If - else, else if ===========
 
-// Exercise #1
-// Before running a program, think what outcome it will five you
-// Put instead of comments console.log with different messages
-// Run a program
-// Change hasCar and hasPrivateJet to false and check how program behaves now
+
+// Example from a slide If - else, else if
+
+
+// Checking truthy vs falsy
+
+
+// =========== Identity and Equality operator ===========
+// Weird JS
+
 
 
 // =========== Operators ===========
+
+// Example from remainder slide
 
 
 // Exercise #1 (Remainder)
@@ -16,20 +23,12 @@
 // and check if the remainder of the division of the first argument by 2 is zero,
 // than sum those arguments otherwise subtract first argument from the second one.
 
-// As outcome you will have three functions:
-// - function which will use either sum or subtract,
-// - function to sum values
-// - function to subtract values
-
-
-// Exercise #2
-//
-// Let's get back to the exercise from previous Function part and implement following condition 
-// If multiplication is more than 50, print result into console, otherwise do nothing
 
 
 
 // =========== Switch statement ===========
+
+// Example from slide with switch statement and profession
 
 
 // Exercise #1

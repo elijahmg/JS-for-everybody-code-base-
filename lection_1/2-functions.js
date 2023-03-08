@@ -18,6 +18,9 @@
 // =========== Callbacks and function composition ===========
 
 
+// Array filtering
+
+
 // Exercise #1
 // Write two functions. First accepts three arguments:
 // - a - number

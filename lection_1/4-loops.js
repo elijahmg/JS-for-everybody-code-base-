@@ -1,6 +1,18 @@
 // =========== Classic for loop ===========
 
 
+// Example from slide, simple counter
+
+
+// Example of the Incerement and decrement
+
+
+
+// Example of the Addition assignement and Subtraction assignment
+
+
+// Example of the different increment value
+
 // Exercise #1
 //
 // Make a loop which goes from 0 to 10,
@@ -9,18 +21,10 @@
 // Hint: Even number is the one which remainder after division by two is zero
 
 
-// Exercise #1
-// Print all values from array
-// 1. Define an array with 3 names in it
-// 2. Store a length of the array in the variable
-// 3. Hint: 
-//    for (initialization; condition; step) {
-//	    // code that is executed repeatedly as long as the condition is // true 
-// 	}
-// 4. Print every value from array 
+// Pracrtise together
 
 
-// Exercise #3 - *
+// Exercise #3 - HOME WORK
 // 
 // Implement a function totalBirdCount
 // that accepts an array that contains the bird count per day.
@@ -35,6 +39,11 @@
 // =========== For of loop ===========
 
 
+// for..of to go through arrays
+
+
+
+
 // Exercise #1
 // Create an array with 5 random numbers.
 // Go through this array and display only odd numbers using for..of loop.
@@ -45,6 +54,12 @@
 // =========== While of loop ===========
 
 
+// Practise together
+// Create a counter with while loop which counts from 0 to 10
+// Print every value into console
+
+
+
 // Exercise #1
 //
 // Create a counter with while loop which counts from 0 to 10
@@ -53,8 +68,10 @@
 // Hint: use increment operator (++)
 
 
+// Early exit example from the slide
 
-// Exercise #2 - Mixed juices
+
+// Exercise #2 - Mixed juices - HOME WORK
 //
 // https://github.com/exercism/javascript/tree/main/exercises/concept/mixed-juices/.docs
 //
